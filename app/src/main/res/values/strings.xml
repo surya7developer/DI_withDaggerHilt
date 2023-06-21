@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DependencyInjectionHilt</string>
+    <string name="example_of_dagger_hilt">Example Of Dagger Hilt\n\n\nCheck logcate for more details</string>
+</resources>
